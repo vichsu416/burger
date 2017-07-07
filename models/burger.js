@@ -1,4 +1,4 @@
-// Import the ORM to implement functions that will interact with the database
+// Import the ORM 
 var orm = require('../config/orm.js');
 
 // Create the burger object

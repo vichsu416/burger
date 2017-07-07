@@ -1,7 +1,7 @@
-// Import the burger model to gain access to the database functions
+// Import the burger model 
 var burger = require('./burger.js');
 
-// Import the connection file directly, in order to terminate the connection at the end of the test run
+// Import the connection file directly
 var connection = require('../config/connection.js');
 
 // Select all entries from the database
